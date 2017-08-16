@@ -2,7 +2,7 @@
 
 # How to run this program 
 
-###1. you need first install node and npm 
+### 1. you need first install node and npm 
 
 ### 2. install node-gyp using: "npm i -g node-gyp
 
